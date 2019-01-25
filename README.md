@@ -1,0 +1,2 @@
+# GCDAsyncSocket
+由于官方GCDAsyncSocket很久没有维护，因此新版的Xcode会报错，所以笔者在官方的基础上修改了部分代码，使之能运行。
